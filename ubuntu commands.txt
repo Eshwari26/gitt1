@@ -1,0 +1,13 @@
+eshwari2005 ubuntu password
+
+ubuntu command for c and c++ programs
+
+gedit
+write code
+save with codename.c or c++(cpp)
+gcc -o filename , ls     g++ -o test with filename.cpp and ./test
+
+./test
+ 
+it will show the output
+

@@ -1,0 +1,4 @@
+nano p2.c
+nd 
+gcc with saved file name
+output ./a.out

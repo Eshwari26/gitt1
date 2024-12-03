@@ -1,0 +1,120 @@
+1. What is the primary function of an operating system?
+
+single
+
+1
+Manage hardware resources
+2
+Compile programs
+3
+Design user interfaces
+4
+Execute code directly
+6. Which operating system structure involves separating the operating system into several components with a well-defined interface?
+
+single
+
+1
+Layered approach
+2
+Monolithic kernel
+3
+Virtualization
+4
+Microkernel
+3. In a microkernel architecture, which component is minimized?
+
+single
+
+1
+Device drivers
+2
+File systems
+3
+Kernel functionality
+4
+Application software
+2. Which of the following is a type of operating system structure?
+
+single
+
+1
+Monolithic kernel
+2
+Physical memory
+3
+Virtual machine
+4
+Hardware abstraction layer
+7. What does the term 'hypervisor' refer to?
+
+single
+
+1
+A device driver that controls virtual hardware
+2
+A software layer that enables multiple virtual machines to run on a single physical machine
+3
+A user interface for virtual machines
+4
+An application that manages network connections
+4. What is the main advantage of a virtual machine?
+
+single
+
+1
+Increased hardware performance
+2
+Enhanced security through isolation
+3
+Direct access to physical hardware
+4
+Simplified operating system design
+5. Which virtual machine component manages execution of guest operating systems?
+
+single
+
+1
+Hypervisor
+2
+Bootloader
+3
+Device driver
+4
+Shell
+8. In which operating system architecture are all services including device drivers and file systems run in kernel mode?
+
+single
+
+1
+Monolithic kernel
+2
+Microkernel
+3
+Hybrid kernel
+4
+Exokernel
+9. Which of the following is NOT a benefit of using virtual machines?
+
+single
+
+1
+Isolation between different applications
+2
+Increased system stability
+3
+Reduced hardware costs
+4
+Faster execution of applications
+10. What is the role of a virtual machine monitor (VMM)?
+
+single
+
+1
+It manages the user interface of virtual machines.
+2
+It provides direct access to physical hardware for applications.
+3
+It emulates hardware to run multiple operating systems on a single physical machine.
+4
+It optimizes network connections for virtual machines.

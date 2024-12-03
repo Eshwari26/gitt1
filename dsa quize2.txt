@@ -1,0 +1,165 @@
+What is a stack?
+single
+
+1
+A data structure that follows FIFO (First In First Out) principle
+2
+A data structure that follows LIFO (Last In First Out) principle
+3
+A queue where elements are processed in order
+4
+A linked list where elements are sorted
+What is the result of evaluating the postfix expression 6 2 3 + - 3 8 2 / + * 2 ^ 3 + ?
+single
+
+1
+48
+2
+54
+3
+28
+4
+44
+Convert the prefix expression * + A B - C D to infix.
+single
+
+1
+(A + B) * (C - D)
+2
+A + (B * C) - D
+3
+(A + B * C) - D
+4
+A + B * (C - D)
+Which expression type does not require parentheses to enforce operator precedence?
+single
+
+1
+Infix
+2
+Postfix
+3
+Prefix
+4
+Both Postfix and Prefix
+What is the primary disadvantage of using a stack with a fixed array size?
+single
+
+1
+High time complexity
+2
+Wasted memory space
+3
+Stack underflow
+4
+Fixed size limits the number of elements
+In which expression format is the operator placed after its operands?
+single
+
+1
+Infix
+2
+Postfix
+3
+Prefix
+4
+Polish Notation
+What operation is used to remove the top element from a stack?
+single
+
+1
+Push
+2
+Pop
+3
+Peek
+4
+Insert
+When using a dynamic array to implement a stack, what occurs when the array runs out of space?
+single
+
+1
+The program terminates
+2
+The array automatically shrinks
+3
+A new, larger array is allocated and elements are copied
+4
+The stack clears itself
+In a stack implemented using an array, what happens when the stack is full?
+single
+
+1
+Elements are discarded
+2
+Stack overflows
+3
+Stack underflows
+4
+Stack automatically resizes
+Which notation is also known as postfix notation?
+single
+
+1
+Infix
+2
+Prefix
+3
+Reverse Polish Notation (RPN)
+4
+Polish Notation
+Consider a stack that is used for expression evaluation. If the input is the postfix expression "6 3 2 * 1 5 - 4 / +", what will the stack contain after the first multiplication operation?
+single
+
+1
+[6, 6]
+2
+[6, 2]
+3
+[6, 6, 4]
+4
+[6]
+Convert the infix expression A + B * C to postfix.
+single
+
+1
+ABC+*
+2
+AB+C*
+3
+ABC*+
+4
+A+BC*
+Which of the following is not a stack operation?
+single
+
+1
+Push
+2
+Pop
+3
+Peek
+4
+Enqueue
+Which of the following is the correct infix expression for the postfix expression AB+CD-*?
+single
+
+1
+(A + B) * (C - D)
+2
+A + (B * C) - D
+3
+A + B * (C - D)
+4
+(A + B * C) - D
+In the evaluation of postfix expressions, which data structure is used?
+single
+
+1
+Queue
+2
+Stack
+3
+Heap
+4
+Linked List

@@ -1,0 +1,14 @@
+3.c
+priority.c
+rroubin.c
+first.c
+cpu.c
+firstfit.c
+bestfit.c
+worstfit.c
+reader.c
+fcfs.c
+
+7
+a.FiFo
+b.last recently used

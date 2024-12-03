@@ -1,0 +1,165 @@
+How do you access the fifth element in an array named 'arr'?
+single
+
+1
+arr[5];
+2
+arr(4);
+3
+arr[4];
+4
+arr(5);
+What is the default value of an integer array in C if it is not initialized?
+single
+
+1
+0
+2
+-1
+3
+NULL
+4
+Undefined or garbage value
+What does 'float' data type represent in C?
+single
+
+1
+An integer value
+2
+A character value
+3
+A decimal or fractional number
+4
+A boolean value
+Which data structure is used for breadth-first traversal?
+single
+
+1
+Stack
+2
+Queue
+3
+Array
+4
+Linked List
+Which of the following is not a valid data type in C?
+single
+
+1
+int
+2
+real
+3
+float
+4
+char
+Can structures in C contain pointers to themselves?
+single
+
+1
+Yes, this is known as a self-referential structure.
+2
+No, it is not allowed in C.
+3
+Only if the structure is global.
+4
+Only if the structure is static.
+What is the primary advantage of using structures in programming?
+single
+
+1
+Structures allow functions to be stored as variables.
+2
+Structures provide a way to group related variables together.
+3
+Structures increase the speed of a program.
+4
+Structures automatically manage memory allocation.
+What happens if a structure is not properly initialized in C?
+single
+
+1
+The program will not compile.
+2
+The structure members will contain garbage values.
+3
+The structure will automatically initialize to zero.
+4
+The compiler will generate a warning.
+What is the size of a structure in C?
+single
+
+1
+The size is always fixed regardless of its members.
+2
+The size is the sum of all its members' sizes plus any padding.
+3
+The size is the largest member's size.
+4
+The size is determined by the compiler during runtime.
+Which of the following is a valid way to declare a union in C?
+single
+
+1
+union {int a; float b;} myUnion;
+2
+union myUnion {int a; float b;};
+3
+define union myUnion {int a; float b;};
+4
+class union {int a; float b;};
+How can a union be accessed?
+single
+
+1
+Using the dot operator (.)
+2
+Using the arrow operator (->)
+3
+Using the address-of operator (&)
+4
+Both A and B
+Can a pointer be used to point to another pointer in C?
+single
+
+1
+Yes, this is called a pointer to a pointer.
+2
+No, pointers cannot point to other pointers.
+3
+Only if both pointers are of the same type.
+4
+Only in 64-bit systems.
+What does the calloc() function do?
+single
+
+1
+Allocates a single block of memory.
+2
+Allocates multiple blocks of memory and initializes them to zero.
+3
+Deallocates memory.
+4
+Allocates memory for a string only.
+Which memory area is used for dynamic memory allocation in C?
+single
+
+1
+Stack
+2
+Heap
+3
+Data Segment
+4
+Code Segment
+What is the syntax to allocate an array of 10 integers dynamically?
+single
+
+1
+int *arr = malloc(10);
+2
+int arr = (int)malloc(10 * sizeof(int));
+3
+int *arr = calloc(10);
+4
+int arr = (int)malloc(10);
